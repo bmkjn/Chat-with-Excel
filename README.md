@@ -86,7 +86,4 @@ This project is designed to create a data analysis agent that helps non-technica
 - "Who created the campaign for Radio Mirchi Jaipur Channel?"
 - "What is the GrossAmount of Jalsa Movies for TV medium?"
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any features or fixes.
 
