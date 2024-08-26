@@ -1,8 +1,6 @@
 # Chat-with-Excel
 ---
 
-# Advertising Data Analysis Agent
-
 ## Overview
 
 This project is designed to create a data analysis agent that helps non-technical users interpret and understand advertising data from multiple mediums, such as TV, Radio, Print, Digital, and Outdoor. The agent is powered by Google Generative AI and uses the PandasAI library to provide clear and concise answers to user queries. The data is organized into separate dataframes for each medium, and the agent is trained to respond accurately based on these dataframes.
