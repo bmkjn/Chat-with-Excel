@@ -1,6 +1,4 @@
 # Chat-with-Excel
-Here's a sample `README.md` for your project:
-
 ---
 
 # Advertising Data Analysis Agent
