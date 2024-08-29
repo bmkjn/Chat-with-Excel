@@ -46,7 +46,7 @@ This project is designed to create a data analysis agent that helps non-technica
 ## Usage
 
 1. Place your data files (Excel format) in the `Data/` directory.
-2. Run the `ChatWithExcel.ipynb` script:
+2. Run the `ChatwithExcel.ipynb` script:
 
 4. The agent will be initialized with data from the specified files. You can interact with the agent by sending queries like:
 
