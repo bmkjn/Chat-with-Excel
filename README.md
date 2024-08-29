@@ -62,10 +62,6 @@ This project is designed to create a data analysis agent that helps non-technica
 - **Multi-Medium Support**: The agent can handle data from different mediums, including TV, Radio, Print, Digital, and Outdoor.
 - **Language Support**: The agent can provide insights into various aspects of ad campaigns, including language, market, amount spent, and more.
 
-## Customization
-
-- **Field Descriptions**: You can customize the descriptions of the fields in the dataframes by modifying the dictionaries in `field_descriptions.py`.
-- **Agent Description**: The agent's role and behavior can be tailored for each medium by updating the descriptions in `descriptions.py`.
 
 ## Example Queries
 
