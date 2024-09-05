@@ -19,8 +19,8 @@ This project is designed to create a data analysis agent that helps non-technica
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/advertising-data-agent.git
-   cd advertising-data-agent
+   git clone https://github.com/bmkjn/Chat-with-Excel.git
+   cd Chat-with-Excel
    ```
 
 2. Set up a virtual environment (optional but recommended):
